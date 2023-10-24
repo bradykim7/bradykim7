@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![bradykim7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradykim7&show_icons=true&theme=calm&type=slice)
+![bradykim7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradykim7&show_icons=true&theme=calm&type=slice&count_private=true)
 
 <!--
 **bradykim7/bradykim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
